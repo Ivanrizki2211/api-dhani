@@ -6,7 +6,7 @@ global.listkey = ["Vanz","turusek"]
 
 //isi agar fitur fitur bisa di gunakan.
 global.lolkey = 'cbeee8ab442cd878f556948c' // Dapatkan di https://api.lolhuman.xyz
-global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
+global.botkey = 'g8ToQXyd' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
     error: {
