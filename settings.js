@@ -5,7 +5,7 @@ global.creator = 'Vanz'
 global.listkey = ["Vanz","turusek"]
 
 //isi agar fitur fitur bisa di gunakan.
-global.lolkey = 'ISI_PUNYA_LOLHUMAN' // Dapatkan di https://api.lolhuman.xyz
+global.lolkey = 'cbeee8ab442cd878f556948c' // Dapatkan di https://api.lolhuman.xyz
 global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
